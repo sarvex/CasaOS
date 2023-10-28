@@ -37,7 +37,7 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/shirou/gopsutil/v3 v3.23.2
 	github.com/sirupsen/logrus v1.9.0
-	github.com/stretchr/testify v1.8.3
+	github.com/stretchr/testify v1.8.4
 	github.com/tidwall/gjson v1.14.4
 	go.uber.org/goleak v1.2.1
 	go.uber.org/zap v1.24.0
