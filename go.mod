@@ -45,7 +45,7 @@ require (
 	golang.org/x/oauth2 v0.6.0
 	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.13.0
-	gorm.io/gorm v1.24.6
+	gorm.io/gorm v1.25.5
 	gotest.tools v2.2.0+incompatible
 )
 
