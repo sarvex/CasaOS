@@ -21,7 +21,7 @@ require (
 	github.com/google/go-github/v36 v36.0.0
 	github.com/google/uuid v1.3.0
 	github.com/googollee/go-socket.io v1.7.0
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.1
 	github.com/h2non/filetype v1.1.3
 	github.com/hirochachacha/go-smb2 v1.1.0
 	github.com/json-iterator/go v1.1.12
