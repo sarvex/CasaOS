@@ -12,7 +12,7 @@ require (
 	github.com/dsoprea/go-exif/v3 v3.0.1
 	github.com/getkin/kin-openapi v0.117.0
 	github.com/gin-contrib/gzip v0.0.6
-	github.com/gin-gonic/gin v1.9.1
+	github.com/gin-gonic/gin v1.10.0
 	github.com/glebarez/sqlite v1.8.0
 	github.com/go-ini/ini v1.67.0
 	github.com/go-resty/resty/v2 v2.7.0
