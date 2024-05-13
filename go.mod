@@ -26,7 +26,7 @@ require (
 	github.com/hirochachacha/go-smb2 v1.1.0
 	github.com/json-iterator/go v1.1.12
 	github.com/labstack/echo/v4 v4.10.2
-	github.com/maruel/natural v1.1.0
+	github.com/maruel/natural v1.1.1
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/mileusna/useragent v1.3.4
 	github.com/moby/sys/mount v0.3.3
