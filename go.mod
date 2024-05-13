@@ -10,7 +10,7 @@ require (
 	github.com/deepmap/oapi-codegen v1.12.4
 	github.com/disintegration/imaging v1.6.2
 	github.com/dsoprea/go-exif/v3 v3.0.1
-	github.com/getkin/kin-openapi v0.117.0
+	github.com/getkin/kin-openapi v0.124.0
 	github.com/gin-contrib/gzip v0.0.6
 	github.com/gin-gonic/gin v1.9.1
 	github.com/glebarez/sqlite v1.8.0
